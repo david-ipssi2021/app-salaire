@@ -8,7 +8,6 @@ colorized: true,
 become: true,
 playbook: 'playbook.yml',
 inventory: 'hosts.yml'
-disableHostKeyChecking: false
 )
 }
 }

@@ -1,0 +1,15 @@
+pkg:
+  - vim
+  - php
+  - php-mysql
+  - httpd
+db_host:
+  - 192.168.110.144
+mysql_dbname:
+  - dbdavidform
+
+mysql_user:
+  - david
+
+mysql_password:
+  -  

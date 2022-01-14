@@ -1,0 +1,7 @@
+---
+web:
+  hosts: nginx
+  vars:
+    domain: david.com
+    ansible_user: david
+    ansible_ssh: 
